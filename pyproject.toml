@@ -1,0 +1,10 @@
+[project]
+name = "chemical_balancer"
+version = "0.1.0"
+description = "A command-line + API tool to balance chemical equations"
+authors = [
+  { name = "Ebony Nicholas", email = "1ebonyn1@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
